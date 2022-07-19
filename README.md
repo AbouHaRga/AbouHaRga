@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @AbouHaRga
+- 🇪🇬 Egyption Living in 🇩🇪 Germany
+- 🎓 I have B.Sc in Computer Science and M.Sc in CyberSecurity
+- 👀 I’m interested in CyberSecurity - Tech - Networking - Ethical Hacking - Crypto...
+- 🌱 I’m currently learning CyberSecurity...
+- 💞️ I’m looking to collaborate on ...
+- 📫 I always available her 127.0.0.1 😉 ...
+- 📫 I available at www.linkedln.com/in/abouharga
+
+<!---
+AbouHaRga/AbouHaRga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
